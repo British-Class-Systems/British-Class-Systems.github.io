@@ -238,6 +238,7 @@ footer div:last-child {
 
 body {
     background-image: url(resources/images/dinner-cheap-lodging-house-g-sal-c13856-84.jpg);
+	background-blend-mode: soft-light;
     background-size: cover;
 
 }
